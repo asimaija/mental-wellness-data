@@ -1,0 +1,296 @@
+{
+  "helplines_by_country": {
+    "Argentina": {
+      "Centro de Atención al Suicida (CAFS)": {
+        "phone": "+54 11 4758‑2554",
+        "notes": "Support for individuals and families in crisis"
+      },
+      "Línea de Asistencia al Suicida (LAS)": {
+        "phone": "+54 11 5275‑1135"
+      }
+    },
+    "Australia": {
+      "Lifeline": {
+        "phone": "13 11 14",
+        "notes": "24/7 crisis support and suicide prevention"
+      },
+      "Suicide Call Back Service": {
+        "phone": "1300 659 467",
+        "notes": "24/7 professional telephone & online counselling"
+      },
+      "Beyond Blue": {
+        "phone": "1300 224 636",
+        "notes": "Support for anxiety, depression, suicide risk"
+      },
+      "Kids Helpline": {
+        "phone": "1800 55 1800",
+        "notes": "24/7 for ages 5–25"
+      }
+    },
+    "Bangladesh": {
+      "Kaan Pete Roi": {
+        "notes": "Emotional support by volunteers for suicide prevention"
+      }
+    },
+    "Belgium": {
+      "Centre de Prévention du Suicide": {
+        "phone": "0800 32 123",
+        "notes": "24/7"
+      },
+      "Zelfmoordlijn": {
+        "phone": "1813",
+        "notes": "24/7"
+      },
+      "Tele-Onthaal": {
+        "phone": "106",
+        "notes": "24/7"
+      }
+    },
+    "Brazil": {
+      "Centro de Valorização da Vida (CVV)": {
+        "phone": "188",
+        "notes": "National suicide prevention helpline"
+      }
+    },
+    "Canada": {
+      "Crisis Services Canada": {
+        "phone": "1‑833‑456‑4566",
+        "notes": "24/7 crisis & suicide prevention"
+      },
+      "Kids Help Phone": {
+        "phone": "1‑800‑668‑6868",
+        "notes": "24/7 for youth"
+      }
+    },
+    "China": {
+      "Beijing Suicide Research and Prevention Center": {
+        "phone": "800‑810‑1117"
+      },
+      "Lifeline Shanghai": {
+        "phone": "021‑6279‑8990"
+      }
+    },
+    "France": {
+      "Suicide Écoute": {
+        "phone": "01 45 39 40 00"
+      },
+      "SOS Amitié": {
+        "phone": "09 72 39 40 50"
+      }
+    },
+    "Germany": {
+      "TelefonSeelsorge": {
+        "phone": "0800 111 0 111 / 0800 111 0 222"
+      },
+      "Crisis Line for Children": {
+        "phone": "0800 111 0 333"
+      }
+    },
+    "India": {
+      "AASRA": {
+        "phone": "+91‑22‑27546669",
+        "notes": "24/7 suicide prevention (Mumbai‑based)"
+      },
+      "Samaritans Mumbai": {
+        "phone": "+91‑84‑22984528",
+        "notes": "4 pm–10 pm daily"
+      },
+      "Sneha": {
+        "phone": "+91‑44‑24640050",
+        "notes": "10 am–10 pm based in Chennai"
+      },
+      "KIRAN": {
+        "phone": "1800‑599‑0019",
+        "notes": "24/7 government helpline in multiple languages"
+      }
+    },
+    "Indonesia": {
+      "Sehat Jiwa (SEJIWA)": {
+        "phone": "119 ext 8",
+        "notes": "National mental health support line"
+      }
+    },
+    "Iran": {
+      "Iran Suicide Hotline": {
+        "phone": "00989127181037"
+      },
+      "Iran Organization of Wellbeing": {
+        "phone": "1480",
+        "notes": "6 am–9 pm daily for mental health and family concerns"
+      }
+    },
+    "Japan": {
+      "TELL Lifeline": {
+        "phone": "03‑5774‑0992",
+        "notes": "English‑speaking helpline"
+      },
+      "Inochi no Denwa": {
+        "phone": "0570‑783‑556"
+      },
+      "Befrienders Osaka": {
+        "phone": "+81‑6‑6260‑4343"
+      }
+    },
+    "Lebanon": {
+      "Embrace Lifeline": {
+        "phone": "1564",
+        "notes": "Emotional crisis & suicide prevention"
+      }
+    },
+    "Malaysia": {
+      "Befrienders Kuala Lumpur": {
+        "phone": "03‑76272929",
+        "notes": "24/7 support in multiple languages"
+      },
+      "Befrienders Ipoh": {
+        "phone": "05‑5477933",
+        "notes": "Psychological support daily 13:00–22:00"
+      }
+    },
+    "Mexico": {
+      "SAPTEL": {
+        "phone": "(55) 5259‑8121"
+      },
+      "Línea De La Vida": {
+        "phone": "800‑911‑2000"
+      }
+    },
+    "New Zealand": {
+      "Lifeline Aotearoa": {
+        "phone": "0800 543 354"
+      },
+      "Suicide Crisis Helpline": {
+        "phone": "0508 TAUTOKO"
+      },
+      "Depression Helpline": {
+        "phone": "0800 111 757"
+      }
+    },
+    "Pakistan": {
+      "Umang": {
+        "phone": "+92‑311‑7786264",
+        "notes": "24/7 mental health helpline by clinical psychologists"
+      }
+    },
+    "Philippines": {
+      "National Center for Mental Health Crisis Hotline": {
+        "phone": "(02) 7989‑8727 or 0917‑899‑8727"
+      },
+      "Hopeline Philippines": {
+        "phone": "(02) 8804‑4673 or 0917‑558‑4673"
+      }
+    },
+    "South Africa": {
+      "SADAG (Depression & Anxiety Helpline)": {
+        "phone": "0800‑567‑567"
+      },
+      "LifeLine Southern Africa": {
+        "phone": "0861‑322‑322"
+      }
+    },
+    "South Korea": {
+      "Lifeline Korea": {
+        "phone": "1588‑9191"
+      },
+      "Suicide Prevention Hotline": {
+        "phone": "1393"
+      }
+    },
+    "Sri Lanka": {
+      "Sumithrayo": {
+        "phone": "011‑2691111 / WhatsApp +94 707‑308‑308",
+        "notes": "Support for those feeling suicidal, depressed, or isolated"
+      },
+      "National Mental Health Helpline": {
+        "phone": "1926"
+      }
+    },
+    "Spain": {
+      "Teléfono de la Esperanza": {
+        "phone": "717‑003‑717"
+      },
+      "Samaritans in Spain": {
+        "phone": "900‑525‑100"
+      }
+    },
+    "Switzerland": {
+      "The Swiss Lifeline": {
+        "phone": "143",
+        "notes": "24/7, free, confidential"
+      },
+      "Pro Juventute": {
+        "phone": "147",
+        "notes": "24/7 for youth up to 25"
+      }
+    },
+    "United Kingdom": {
+      "Samaritans": {
+        "phone": "116 123",
+        "notes": "24/7 emotional support"
+      },
+      "Crisis Text Line (Shout)": {
+        "text": "SHOUT to 85258"
+      }
+    },
+    "United States": {
+      "National Suicide Prevention Lifeline / 988": {
+        "phone": "988",
+        "notes": "Call or text for crisis support"
+      },
+      "Crisis Text Line": {
+        "text": "HOME to 741741"
+      },
+      "Trans Lifeline": {
+        "phone": "877‑565‑8860",
+        "notes": "Support for transgender individuals"
+      }
+    },
+    "Italy": {
+      "SPS – Servizio per la Prevenzione del Suicidio": {
+        "phone": "800 86 00 22 / 06 77208977",
+        "notes": "Mon–Fri 9:30 am–4:30 pm"
+      },
+      "Telefono Amico": {
+        "phone": "199 284 284",
+        "notes": "Every day 10 am–midnight"
+      }
+    },
+    "Israel": {
+      "Eran – Suicide Line": {
+        "phone": "1201 or +972‑9‑8891333",
+        "notes": "24/7 helpline"
+      }
+    },
+    "Cambodia": {
+      "TPO Cambodia Suicide Prevention Helpline": {
+        "phone": "017 222 372"
+      }
+    },
+    "Morocco": {
+      "Psychological Support Hotline (MAPSK)": {
+        "phone": "080 100 4747",
+        "notes": "Free, confidential, 24/7 support"
+      }
+    },
+    "Albania": {
+      "Linja e Këshillimit për Gra e Vajza": {
+        "phone": "116 117",
+        "notes": "Adults & women support, 9:00 am–8:00 pm"
+      },
+      "Alo 116": {
+        "phone": "116 111",
+        "notes": "Youth & children, 24/7"
+      }
+    },
+    "Austria": {
+      "TelefonSeelsorge": {
+        "phone": "142",
+        "notes": "24/7 free crisis support"
+      },
+      "Rat auf Draht": {
+        "phone": "147",
+        "notes": "24/7 youth-focused crisis support"
+      }
+    }
+  }
+}
